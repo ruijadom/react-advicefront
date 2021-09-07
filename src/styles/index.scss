@@ -1,0 +1,15 @@
+@import './variables.scss';
+@import './fonts.scss';
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+
+@import 'tailwindcss/utilities';
+
+.hover-post-trigger .hover-post-target {
+  display: none;
+}
+
+.hover-post-trigger:hover .hover-post-target {
+  display: block;
+}

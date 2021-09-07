@@ -1,0 +1,12 @@
+{
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#000",
+    "titleBar.inactiveForeground": "#000000CC",
+    "titleBar.activeBackground": "#705EE0",
+    "titleBar.inactiveBackground": "#7e6bf8"
+  },
+  "css.validate": false, // Disable css built-in lint
+  "stylelint.enable": true // Enable sytlelint
+}
